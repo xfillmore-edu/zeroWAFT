@@ -1,0 +1,8 @@
+html,
+:root {
+    --orange: #E39612;
+    --dark-green: #317345;
+    --dark-blue: #303459;
+
+    font-size: 18px;
+}
